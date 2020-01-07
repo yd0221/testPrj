@@ -63,4 +63,4 @@ Time taken: 0.018 seconds, Fetched: 2 row(s)
 ```
 
 ## Copy Right
-2020.01. : ydam
+2020.01. ydam
